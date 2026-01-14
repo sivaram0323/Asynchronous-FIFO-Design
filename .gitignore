@@ -1,0 +1,10 @@
+.aldec/
+ACCELLERA_OVL_VHDL_LIB/
+work/
+.bash_logout
+.bash_profile
+.bashrc
+.flexlmrc
+dataset.asdb
+library.cfg
+run.sh
