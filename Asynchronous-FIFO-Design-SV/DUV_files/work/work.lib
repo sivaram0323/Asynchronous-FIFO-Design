@@ -1,0 +1,109 @@
+timestamp=1770217466917
+
+[~A]
+LastVerilogToplevel=testbench
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*3490*5393
+
+[~MFT]
+0=14|0work.mgf|5393|0
+1=12|1work.mgf|21744|0
+3=24|3work.mgf|16929|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c92160a30a97192630e13471be869d87ce2bf
+
+[\fifo_intf \\fifo_intf.MEM \\ \]
+A/\fifo_intf \\fifo_intf.MEM \\ \=22|../interface.sv|36|1*8318
+BinL64/\fifo_intf \\fifo_intf.MEM \\ \=3*2109
+R=../interface.sv|36
+SLP=3*2567
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|19ddd5b603a5e574bbd03baa93ab5914372e2c0307bd4c2f0a2d469b40e9ebe6ce3957d896b1b489f025cd538d5d48b2
+
+[\fifo_intf \\fifo_intf.RD \\ \]
+A/\fifo_intf \\fifo_intf.RD \\ \=22|../interface.sv|31|1*6201
+BinL64/\fifo_intf \\fifo_intf.RD \\ \=3*1418
+R=../interface.sv|31
+SLP=3*1888
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|19ddd5b603a5e574bbd03baa93ab5914e2fdb0237f0f21f3dce03b01a5db130af552108978e006e3f94574f28712a859
+
+[\fifo_intf \\fifo_intf.SYNC \\ \]
+A/\fifo_intf \\fifo_intf.SYNC \\ \=22|../interface.sv|41|1*10374
+BinL64/\fifo_intf \\fifo_intf.SYNC \\ \=3*2783
+R=../interface.sv|41
+SLP=3*3242
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|19ddd5b603a5e574bbd03baa93ab5914b9ab893f49eb948e781e66db1a190e2abb3efa6c8aed86bd49a6dcb7495281d8
+
+[\fifo_intf \\fifo_intf.WR \\ \]
+A/\fifo_intf \\fifo_intf.WR \\ \=22|../interface.sv|26|1*4086
+BinL64/\fifo_intf \\fifo_intf.WR \\ \=3*723
+R=../interface.sv|26
+SLP=3*1193
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|19ddd5b603a5e574bbd03baa93ab5914c0d9874564a02fa8604de72048d8af11f552108978e006e3f94574f28712a859
+
+[async_fifo]
+A/async_fifo=22|../async_fifo.sv|1|1*12337
+BinL64/async_fifo=3*3459
+R=../async_fifo.sv|1
+SLP=3*3672
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|ad5e4d13b014548d7a1709123812508e74380894dbe51e19c153e1a0c822184fe1110c92cdf548ff0cbc3afcd2960568
+
+[dpram]
+A/dpram=22|../dpram.sv|1|1*19996
+BinL64/dpram=3*12781
+R=../dpram.sv|1
+SLP=3*14472
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|2b8545b3501af272c6c2121df32ef6ef196c9526e61ed1aa8725217526fe07af
+
+[fifo_intf]
+A/fifo_intf=22|../interface.sv|1|1*374
+BinL64/fifo_intf=3*190
+R=../interface.sv|1
+SLP=3*639
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|f4c9d8972a84b75847d852bc79849547d11a51508dfe70bf9efaf19ddf0be0fd12decbaf72c20caae90ca53b1baa4cbf
+
+[rptr_handler]
+A/rptr_handler=22|../rptr_handler.sv|1|1*15850
+BinL64/rptr_handler=3*7487
+R=../rptr_handler.sv|1
+SLP=3*9913
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|f0d8bf1143ce662e437d69fb7465b8212888acab0415eb9c1715522cb46b8c2f4c279efdfe3e99d483eb9a7d155dcfb0
+
+[synchronizer]
+A/synchronizer=22|../synchronizer.sv|1|1*18067
+BinL64/synchronizer=3*10519
+R=../synchronizer.sv|1
+SLP=3*12169
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|2bde7638459f7502773fd904c5a1746941effd4decbffcea486524baa62c56d04c279efdfe3e99d483eb9a7d155dcfb0
+
+[testbench]
+A/testbench=22|../testbench.sv|10|1*21744
+BinL64/testbench=3*14902
+R=../testbench.sv|10
+SLP=3*16929
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|9c08cd30fe0f9550ac0d051aa32c9ba5030c5f4de3ffa3c97f58c5528f1d791315e2ea444d9ccecd97c19af321b2b845
+
+[wptr_handler]
+A/wptr_handler=22|../wptr_handler.sv|1|1*13610
+BinL64/wptr_handler=3*3790
+R=../wptr_handler.sv|1
+SLP=3*6795
+Version=2025.04.139 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|3186ebb4c88935316b1bb4ce516f761fc3e84a3bb4037432fbfe992edacb38294c279efdfe3e99d483eb9a7d155dcfb0
+
+[~U]
+$root=12|0*0|
+\fifo_intf \\fifo_intf.MEM \\ \=12|0*1413||0x80040000
+\fifo_intf \\fifo_intf.RD \\ \=12|0*1019||0x80040000
+\fifo_intf \\fifo_intf.SYNC \\ \=12|0*1785||0x80040000
+\fifo_intf \\fifo_intf.WR \\ \=12|0*628||0x80040000
+async_fifo=12|0*2162|
+dpram=12|0*3043|
+fifo_intf=12|0*230||0x80000
+rptr_handler=12|0*2623|
+synchronizer=12|0*2833|
+testbench=12|0*3240||0x10
+wptr_handler=12|0*2413|

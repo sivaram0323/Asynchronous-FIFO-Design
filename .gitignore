@@ -1,0 +1,41 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies
+node_modules/
+venv/
+*.vcd
+*.sh
+__pycache__/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
